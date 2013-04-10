@@ -1,6 +1,7 @@
 Homebrew-cppcms
 ============
-This repository contains [CppCMS](http://cppcms.com) as formula for [Homebrew](http://mxcl.github.io/homebrew).
+This repository contains a [Homebrew](http://mxcl.github.io/homebrew) formula
+for [CppCMS — The C++ Web Development Framework](http://cppcms.com).
 
 Installing Homebrew-cppcms Formula
 --------------------------------
